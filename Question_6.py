@@ -1,6 +1,6 @@
 #String Compression. 
 def compress(str1):
-    res = "x"
+    res = ""
     all_same = True
     start = 0
     end = len(str1)
