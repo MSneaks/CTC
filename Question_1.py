@@ -1,4 +1,5 @@
 #Is Unique. Determine if a string has all unique characters
+#Opposite of leetcode 217
 def isUnique(arr):
     seen = {}
     for i in arr:
